@@ -1,5 +1,9 @@
 # 🎬 AJ CINEMA — Movie Discovery App
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dbms-capstone-96t7.vercel.app/)
+
+🔗 **Live Deployment**: [https://dbms-capstone-96t7.vercel.app/](https://dbms-capstone-96t7.vercel.app/)
+
 A React movie discovery platform powered by the TMDB API: cinematic hero carousel, Netflix-style rows,
 search & filters, favorites, and a personal taste dashboard.
 
