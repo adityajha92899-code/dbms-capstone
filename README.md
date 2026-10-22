@@ -9,7 +9,7 @@ search & filters, favorites, and a personal taste dashboard.
 
 ## Setup
 ```bash
-cp .env.example .env      # add your free TMDB key (https://www.themoviedb.org/settings/api)
+cp .env.example .env
 npm install
 npm run dev
 ```
